@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Temp\\AWS_Web\\WebApplication2\\WebApplication2.csproj": {}
+    "E:\\Temp\\AWS_Web\\weapp-ozwo\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "E:\\Temp\\AWS_Web\\WebApplication2\\WebApplication2.csproj": {
+    "E:\\Temp\\AWS_Web\\weapp-ozwo\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Temp\\AWS_Web\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "E:\\Temp\\AWS_Web\\weapp-ozwo\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "E:\\Temp\\AWS_Web\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "E:\\Temp\\AWS_Web\\weapp-ozwo\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\Subhash\\.nuget\\packages\\",
-        "outputPath": "E:\\Temp\\AWS_Web\\WebApplication2\\obj\\",
+        "outputPath": "E:\\Temp\\AWS_Web\\weapp-ozwo\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
